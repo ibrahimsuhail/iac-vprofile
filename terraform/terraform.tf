@@ -27,7 +27,7 @@ terraform {
   }
 
   backend "s3" {
-    bucket = "kickthebucket1999"
+    bucket = "kickthebucket2000"
     key    = "terraform.tfstate"
     region = "us-east-1"
   }
